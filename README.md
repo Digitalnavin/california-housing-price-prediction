@@ -35,7 +35,10 @@ The dataset is sourced from `sklearn.datasets.fetch_california_housing`.
 
 ![Heatmap](heatmap.png)
 
-![scatter_plot](scatter plot.png)
+
+
+![Scatter Plot](images/scatter_plot.png)
+
 
 ---
 
