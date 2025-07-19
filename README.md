@@ -33,7 +33,9 @@ The dataset is sourced from `sklearn.datasets.fetch_california_housing`.
 > Heatmap showing feature correlations  
 > Scatter plot comparing actual vs predicted values
 
-![Heatmap](images/heatmap.png)
+![Heatmap](heatmap.png)
+
+![scatter_plot](scatter plot.png)
 
 ---
 
